@@ -1,62 +1,28 @@
-# Fortnite Aimbot by mikusDEV
-fortnite undetectable aimbot
+# Fortnite Aimbot by mikusDEV 
 
-# How to set up?
+## Overview
+Fortnite Aimbot by mikusDEV offers an undetectable aimbot for precision in your Fortnite gaming.
 
-NOTE: Before instalation, uninstall CUDA toolkit if you have one, and install NVIDIA driver (minimum v515)
+## Setup Instructions
 
-1. install python 3.8
-link: https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
-before install, uniinstall newer version of python, if you have one.
-REMEMBER TO CHECK "add to patch" WHEN INSTALLING
+### Prerequisites
+- Uninstall the CUDA toolkit and install the NVIDIA driver (minimum version v515) before proceeding.
 
-2. install PYTHON addon in visual studio installer
-link: https://visualstudio.microsoft.com/pl/free-developer-offers/
-(download community version)
-in setup select python addon
+### Step 1: Install Python 3.8
+Download and install Python 3.8 from the official link: [Python 3.8.0](https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe). Check "Add to Path" during installation.
 
-![image](https://user-images.githubusercontent.com/118010017/209166455-c85d95a3-f8ef-4234-9f7d-f4e057761392.png)
-![image](https://user-images.githubusercontent.com/118010017/210354285-03075466-5fb5-4d1d-b8d5-f6a4c2fd17c0.png)
+### Step 2: Install Python Addon in Visual Studio
+1. Download and install the Visual Studio Community version from [here](https://visualstudio.microsoft.com/free-developer-offers/).
+2. During setup, select the Python addon.
 
+![Visual Studio Setup](https://user-images.githubusercontent.com/118010017/209166455-c85d95a3-f8ef-4234-9f7d-f4e057761392.png)
 
-after install reboot PC
+### Step 3: Download and Extract Release
+Download and extract the release (or repo). Run "install the req.bat" and keep the CMD window open; it will close automatically after installation.
 
-3. download and extract relase (or repo) and run "install the req.bat" 
-(don't close cmd, it will close automaticly after install)
+### Step 4: Run the Aimbot
+Execute the "start.bat" file to activate the aimbot.
 
-4. Run via "start.bat" file
-
-
-# Changelog
-1.7:
-
--changed downnload sourcce
-
-1.6:
-
--aiming and hints updated
-
-1.5:
-
--Fucked up :D
-
-1.4:
-
--Improved Stability
-
--Added config editor
-
-
-1.3:
-
--Fixed crash on newer versions of windows
-
-1.2:
-
--Added TORCH fix when installing the req
-
-
-1.1:
-
--Improved Stability
-
+## Additional Notes
+- Ensure that you comply with Fortnite's terms of service and policies to avoid any consequences.
+- For inquiries or issues, contact mikusDEV or join the Ai Aimbot hub on [Discord](https://discord.gg/8Cuggsx2).
