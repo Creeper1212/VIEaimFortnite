@@ -62,7 +62,7 @@ class Aimbot:
         self.box_constant = box_constant #controls the size of the detection box (equaling the width and height)
 
         print("[INFO] Loading the YoloForVIEAIM to best.pt")
-        self.model = torch.hub.load('mikusgszyp/YoloForVIEAIM', 'custom', path='lib/best.pt', force_reload = True)
+        self.model = torch.hub.load('Creeper1212/yolov5', 'custom', path='lib/best.pt', force_reload = True)
         if torch.cuda.is_available():
             print(colored("CUDA ACCELERATION [ENABLED]", "green"))
         else:
